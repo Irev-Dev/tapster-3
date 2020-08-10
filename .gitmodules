@@ -1,0 +1,3 @@
+[submodule "openscad/library/Round-Anything"]
+	path = openscad/library/Round-Anything
+	url = https://github.com/Irev-Dev/Round-Anything.git
